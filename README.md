@@ -34,3 +34,6 @@
 
 # Content Image 
 ![Image](https://github.com/user-attachments/assets/7488745f-25ec-473e-b6cb-86779a0a519b)
+
+# Style Image 
+![Image](https://github.com/user-attachments/assets/5c8dd32b-530d-4151-ba73-ad6a260cfd58)
