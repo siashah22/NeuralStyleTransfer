@@ -37,3 +37,6 @@
 
 # Style Image 
 ![Image](https://github.com/user-attachments/assets/5c8dd32b-530d-4151-ba73-ad6a260cfd58)
+
+# Output
+![Image](https://github.com/user-attachments/assets/86f77948-2b0a-4a56-bc8d-bf2c2ef3ee90)
